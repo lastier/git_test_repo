@@ -8,6 +8,7 @@ public class AuthApp3 {
 		String inputId = args[0];
 		
 		boolean isLogined = false;
+		
 		for(int i=0; i<users.length; i++) {
 			String currentId = users[i];
 			if(currentId.equals(inputId)) {
@@ -20,7 +21,7 @@ public class AuthApp3 {
 			System.out.println("Master!!");
 		} else {
 			System.out.println("Who are you?");
-		}
+		}0
 
 	}
 	
