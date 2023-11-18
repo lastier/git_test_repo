@@ -22,9 +22,9 @@ public class Scanner_Exam {
 		
 		String sc = scanner.nextLine();
 		
-		String word= scanner.next();
+//		String word= scanner.next();
 		
-		System.out.println("입력된 단어는 : " + word+" 입니다.");
+//		System.out.println("입력된 단어는 : " + word+" 입니다.");
 	
 		System.out.println("입력된 단어의 갯수는 : "+ sc.split(" ").length + "개 입니다.");
 		
