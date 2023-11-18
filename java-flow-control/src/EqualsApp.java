@@ -16,7 +16,7 @@ public class EqualsApp {
 	        if(inputId.equals(id) && isRightPass ) {
 	            System.out.println("Master!");
 	        } else {
-	            System.out.println("Who are you?");
+	            System.out.println("Who are you????");
 	        }       
 
 	}
